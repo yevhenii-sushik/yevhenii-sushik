@@ -1,4 +1,4 @@
-<h1 align="center">A passionate frontend developer from Russia</h1>
+<h1 align="center">A passionate frontend developer from </h1>
 
 <p align="center">
   <a href="link_to_your_portfolio" target="_blank">My portfolio PORTFOLIO</a>
