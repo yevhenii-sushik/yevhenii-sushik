@@ -1,6 +1,6 @@
 # Hey! 👋
 
-Я увлеченный frontend-разработчик из России.
+I'm a passionate frontend developer from Ukraine.
 
 ## My projects
 
