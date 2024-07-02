@@ -1,15 +1,15 @@
-# Привет! 👋
+# Hey! 👋
 
 Я увлеченный frontend-разработчик из России.
 
-## Мои проекты
+## My projects
 
 * 💼 [Мое портфолио](ссылка на портфолио)
 * 💰 [CRYPTO-PROFILE](ссылка на проект)
 
-## Технологический стек
+## Technology Stack
 
-### Общие
+### General
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -40,9 +40,6 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-## Контакты
+## Contacts
 
 * 💬 Telegram: [@ваш_telegram](ссылка на телеграм)
-* 🎮 Discord: ваш_дискорд#1234
-* 📫 VK: [@ваш_vk](ссылка на вк)
-* 🐙 GitHub: [@ваш_github](ссылка на github)
