@@ -1,42 +1,237 @@
-# 👋 Привет, я Yevhenii Sushik
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=900&size=40&duration=3000&pause=600&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey!++%F0%9F%91%BB;I'm+Yevhenii+Sushik!" alt="Hey! I'm Yevhenii Sushik!"/></a>
+</h1>
 
-![Header](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME/blob/main/assets/header.png)
+<br/>
 
-Я увлеченный Frontend-разработчик из Украины. Обожаю создавать красивые и функциональные веб-приложения. Мои навыки включают современные JavaScript-фреймворки, адаптивный дизайн и создание динамичных пользовательских интерфейсов.
+<div align="center">
+  
+ ### 🧑‍💻 My portfolio [PORTFOLIO]() 
+ 
+</div>
+ 
+<br/>
 
-## 🚀 Навыки
+<p>I am a passionate Frontend developer from Ukraine. I love creating beautiful and functional web applications. My skills include modern JavaScript frameworks, responsive design and creating dynamic user interfaces.</p>
 
-### Языки и Инструменты
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Другие навыки
-- **Адаптивный дизайн**
-- **Кроссбраузерная совместимость**
-- **RESTful API**
-- **Agile методологии**
 
-## 📈 Статистика GitHub
 
-![Yevhenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+<h2 align="left">🚀 Tech stack</h2>
 
-## 📫 Свяжитесь со мной
+<br>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+> Languages and Tools
 
-## 🎨 Последние проекты
+<table width='100%'>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://brandeps.com/logo-download/T/Typescript-logo-vector-02.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="34" height="34" alt="figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="45" height="45" alt="github" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr> 
+</table><br>
+
+
+> Other skills
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36" height="36" alt="React" />
+      </a>
+      <br>React 
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+  </tr> 
+</table><br>
+
+
+>🌱 Currently studying
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+
+
+## 📫Contact
+
+- <img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" width="25" height="25"/>  **[LinkedIn](https://www.linkedin.com/in/yevhenii-sushik)**
+  
+- <img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/>  **[Telegram](https://t.me/yevhenii_suh)**
+  
+- <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" width="25" height="25"/>  **[Gmail](https://)**
+  
+- <img align="center" src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="25" height="25"/>  **[GitHub](https://)**
+  
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+## 🎨 Recent projects
 
 ### [Название проекта](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_NAME)
 ![Project Image](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME/blob/main/assets/project1.png)
@@ -46,12 +241,176 @@
 ![Project Image](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME/blob/main/assets/project2.png)
 Краткое описание вашего проекта.
 
-## 🌱 В настоящее время изучаю
-- TypeScript
-- Next.js
-- GraphQL
 
-## 🎉 Интересный факт
+
+## 📈 GitHub Statistics
+
+![Yevhenii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+ 
+
+
+## 🎉 Interesting fact
 В свободное время я люблю заниматься пешими прогулками, читать научную фантастику и экспериментировать с новыми веб-технологиями.
 
-![Footer](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_REPO_NAME/blob/main/assets/footer.png)
+
+
+
+
+
+
+
+
+> General
+
+<table width='100%' style="border: none;" >
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" width="36" height="36" alt="javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://brandeps.com/logo-download/T/Typescript-logo-vector-02.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+      </a>
+      <br>HTML5
+    </td>
+         <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="34" height="34" alt="figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
+      </a>
+      <br>git
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="45" height="45" alt="github" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr> 
+</table>
+
+> Frontend
+
+<table width='100%'>
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36" height="36" alt="React" />
+      </a>
+      <br>React 
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
+      </a>
+      <br>Mobx
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+  </tr> 
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#">
+        <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" width="36" height="36" alt="Ant-design" />
+      </a>
+      <br>Ant-design
+    </td>
+  </tr> 
+</table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#" >
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+  </tr> 
+</table>
