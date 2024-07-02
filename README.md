@@ -120,7 +120,7 @@
 
 
 
-## 📫Contact
+## 📫 Contact
 
 - <img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" width="25" height="25"/>  **[LinkedIn](https://www.linkedin.com/in/yevhenii-sushik)**
   
