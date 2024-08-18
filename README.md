@@ -131,13 +131,13 @@
   
 - <img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/>  **[Telegram](https://t.me/yevhenii_sushik)**
   
-- <img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/>  **[WhatsApp](https://wa.me/380975255423)**
-  
-- <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" width="25" height="25"/>  **[Gmail NoN link](yevhenii.sushik@gmsil.com)**
+- <img align="center" src="https://brandeps.com/icon-download/W/Whatsapp-icon-vector-07.svg" width="25" height="25"/>  **[WhatsApp](https://wa.me/380975255423)**
   
 - <img align="center" src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="25" height="25"/>  **[GitHub](https://github.com/yevhenii-sushik)**
-  
-<br>
+
+- <img align="center" src="https://brandeps.com/icon-download/G/Global-icon-vector-01.svg" width="25" height="25"/>  **[All my social media](https://yevhenii-sushik.netlify.app/social-media/social.media.html)**
+
+
 
 
 
