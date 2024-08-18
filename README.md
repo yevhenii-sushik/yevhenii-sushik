@@ -12,9 +12,13 @@
  
 <br/>
 
-<p>I am a passionate Frontend developer from Ukraine. I love creating beautiful and functional web applications. My skills include modern JavaScript frameworks, responsive design and creating dynamic user interfaces.</p>
+<p>👋 Hi, I'm a frontend developer with experience with HTML, CSS, JavaScript, TypeScript and React. 💻
+  
+🌟 My passion for creative solutions and out-of-the-box approach helps me find unique solutions to complex problems. I'm always looking for a balance between professionalism and innovation to create truly outstanding web products. 🚀
 
+🎨 Inspired by new technologies and ideas, and constantly evolving to stay at the forefront of frontend development. Ready for new challenges and interesting projects!</p>
 
+<br>
 
 
 <h2 align="left">🚀 Tech stack</h2>
@@ -125,11 +129,13 @@
 
 - <img align="center" src="https://brandeps.com/icon-download/L/Linkedin-icon-vector-13.svg" width="25" height="25"/>  **[LinkedIn](https://www.linkedin.com/in/yevhenii-sushik)**
   
-- <img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/>  **[Telegram](https://t.me/yevhenii_suh)**
+- <img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/>  **[Telegram](https://t.me/yevhenii_sushik)**
   
-- <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" width="25" height="25"/>  **[Gmail](https://)**
+- <img align="center" src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="25" height="25"/>  **[WhatsApp](https://wa.me/380975255423)**
   
-- <img align="center" src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="25" height="25"/>  **[GitHub](https://)**
+- <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" width="25" height="25"/>  **[Gmail NoN link](yevhenii.sushik@gmsil.com)**
+  
+- <img align="center" src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="25" height="25"/>  **[GitHub](https://github.com/yevhenii-sushik)**
   
 <br>
 
