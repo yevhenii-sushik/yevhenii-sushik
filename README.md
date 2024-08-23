@@ -6,7 +6,7 @@
 
 <div align="center">
   
- ### 🧑‍💻 My portfolio [PORTFOLIO]() 
+ ### 🧑‍💻 My portfolio [PORTFOLIO](https://yevhenii-sushik.netlify.app/) 
  
 </div>
  
