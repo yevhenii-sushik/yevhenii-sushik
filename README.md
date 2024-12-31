@@ -6,77 +6,155 @@
 <br/>
 
 <div align="center">
-  
- ### 🧑‍💻 My portfolio [PORTFOLIO](https://yevhenii-sushik.netlify.app/) 
- 
+  <h1 align="left">Full-Stack Software Engineer</h1>
+
+  <br/>
+
+  <p align="left"><b>Aspiring .NET Full-Stack Software Engineer with a solid foundation in front-end development. Currently studying programming with a focus on back-end technologies, aiming to expand into back-end development to     become a proficient full-stack developer. Passionate about continuous learning and eager to contribute to innovative projects.<b></p>
+
+<br/>
+
+  ### 🧑‍💻 My portfolio [PORTFOLIO ⮭](https://yevhenii-sushik.netlify.app/) 
 </div>
  
 <br/>
-
-
-
-<br>
 
 
 <h2 align="left">🚀 Tech stack</h2>
 
 <br>
 
-> Languages and Tools
+> Programming and markup languages
 
-<table width='100%'>
-    <td align="center" width="110" height="90">
+ <table width='100%'>
+  <tr>
+     <td align="center" width="70" height="60">
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+        <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="36" height="36" alt="С#" />
       </a>
-      <br>HTML5
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="110" height="90">
+     <td align="center" width="70" height="60">
       <a href="#">
         <img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>JavaScript
     </td>
-    <td align="center" width="110" height="90">
+     <td align="center" width="70" height="60">
       <a href="#">
         <img src="https://brandeps.com/logo-download/T/Typescript-logo-vector-02.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>TypeScript
     </td>
-      <td align="center" width="110" height="90">
+        <td align="center" width="70" height="60">
       <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="36" height="36" alt="typescript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>C#
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-      </a>
-      <br>git
-    </td>
-    <td align="center" width="110" height="90"> 
+    <td align="center" width="70" height="60"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/G/Github-icon-vector-02.svg" width="42" height="42" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>GitHub
-    </td>
-      <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="34" height="34" alt="figma" />
-      </a>
-      <br>Figma
     </td>
   </tr> 
 </table><br>
 
 
+> Frameworks and libraries
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60"> 
+      <a href="#" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+  </tr>
+</table><br>
+
+
+> Version control systems
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60"> 
+      <a href="#" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+  </tr>
+</table><br>
+
+
+> Development Tools
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60"> 
+      <a href="#" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+  </tr>
+</table><br>
+
+
+> Databases
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60"> 
+      <a href="#" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+  </tr>
+</table><br>
+
+
+> Containerization and DevOps
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="70" height="60">
+      <a href="#">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+    <td align="center" width="70" height="60"> 
+      <a href="#" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjv-CbFMSPxhUZbeM6BMh3MdAAbIiXr1GXg&s" width="36" height="36" alt="" />
+      </a>
+    </td>
+  </tr>
+</table><br>
 
 <br>
 
@@ -91,14 +169,6 @@
 - <img align="center" src="https://brandeps.com/icon-download/W/Whatsapp-icon-vector-07.svg" width="25" height="25"/>  **[WhatsApp](https://wa.me/380975255423)**
 
 - <img align="center" src="https://cdn-icons-png.flaticon.com/128/841/841364.png" width="25" height="25"/>  **[All my social media](https://yevhenii-sushik.netlify.app/social-media/social.media.html)**
-
-
-
-
-
-
-
-
 
 
 
