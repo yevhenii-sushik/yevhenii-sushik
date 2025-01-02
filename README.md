@@ -176,7 +176,7 @@
 
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/480px-X_logo_2023_%28white%29.png" width="25" height="25"/>  **[X](#)**
 
-- <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="25" height="25"/>  **[YouTube](#)**
+- <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="25" height="25"/>  **[YouTube](https://www.youtube.com/@Yevhenii-Sushik)**
 
 
 
