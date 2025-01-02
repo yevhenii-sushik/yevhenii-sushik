@@ -160,65 +160,23 @@
 
 
 
+
+
 ## 📫 Contact
 
 - <img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="25" height="25"/>  **[LinkedIn](https://www.linkedin.com/in/yevhenii-sushik)**
   
 - <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968804.png" width="25" height="25"/>  **[Telegram](https://t.me/yevhenii_sushik)**
-  
-- <img align="center" src="https://brandeps.com/icon-download/W/Whatsapp-icon-vector-07.svg" width="25" height="25"/>  **[WhatsApp](https://wa.me/380975255423)**
 
 - <img align="center" src="https://cdn-icons-png.flaticon.com/128/841/841364.png" width="25" height="25"/>  **[All my social media](https://yevhenii-sushik.netlify.app/social-media/social.media.html)**
 
+<br/>
 
+## 📺 Media
 
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/480px-X_logo_2023_%28white%29.png" width="25" height="25"/>  **[X](#)**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="25" height="25"/>  **[YouTube](#)**
 
 
 
